@@ -9,6 +9,5 @@ Output : olleH dlroW
 
 Example 2:
 
-Input:
-s = Geeks
+Input:s = Geeks
 Output: skeeG
